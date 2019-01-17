@@ -102,6 +102,10 @@ textarea {
     width: 70%;
   }
 
+  .container > img {
+    max-width: 100%;
+  }
+
   .content {
     width: 80%;
     margin: 0 auto;
